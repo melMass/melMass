@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**melMass/melMass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Mel Massadian**, a VFX Supervisor / TD from France.
 
-Here are some ideas to get you started:
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+_You can also find me on:_  
+**ꜩ** - melmass.tez 
+**H=N** - https://hen.link/mel  
+:bird: - https://twitter.com/melmassadian  
+:link: - https://melmassadian.com  
+
