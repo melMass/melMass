@@ -13,7 +13,7 @@ I'm <strong>Mel Massadian</strong>, a VFX Supervisor / TD from France.
 </a>
 
 _You can also find me on:_  
-**ꜩ** - melmass.tez 
+**ꜩ** - melmass.tez  
 **H=N** - https://hen.link/mel  
 :bird: - https://twitter.com/melmassadian  
 :link: - https://melmassadian.com  
