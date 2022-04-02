@@ -6,9 +6,11 @@
 I'm <strong>Mel Massadian</strong>, a VFX Supervisor / TD from France.
 </p>
 
-<p align="center">
-<img  src="/github-metrics.svg" alt="Metrics" width="400">
-</p>
+
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/melMass/melMass">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=melMass&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mel's GitHub Stats" />
+</a>
 
 _You can also find me on:_  
 **ꜩ** - melmass.tez 
